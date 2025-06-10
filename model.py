@@ -5,7 +5,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... from PIL import Image
 ... 
 ... # 학습된 모델을 불러오는 함수
-... def load_trained_model(model_path='model/crack_detector.h5'):
+... def load_trained_model(model_path='crack-detection-dashboard.h5'):
 ...     """
 ...     모델을 불러오는 함수
 ...     model_path: 학습된 모델 파일 경로 (디폴트는 'model/crack_detector.h5')
